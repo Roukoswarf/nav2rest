@@ -1,0 +1,6 @@
+# nav credentials
+username=''
+password=''
+
+# url for soap service
+wsdl = ''
